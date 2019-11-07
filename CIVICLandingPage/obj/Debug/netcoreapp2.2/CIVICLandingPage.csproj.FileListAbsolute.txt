@@ -1,0 +1,24 @@
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.csproj.CoreCompileInputs.cache
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.RazorAssemblyInfo.cache
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.RazorAssemblyInfo.cs
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.AssemblyInfoInputs.cache
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.AssemblyInfo.cs
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.RazorCoreGenerate.cache
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.RazorTargetAssemblyInfo.cache
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.RazorTargetAssemblyInfo.cs
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.csproj.CopyComplete
+C:\Users\Waleed.Iqbal\source\repos\CIVICLandingPage\CIVICLandingPage\obj\Debug\netcoreapp2.2\CIVICLandingPage.csprojAssemblyReference.cache

@@ -1,0 +1,128 @@
+.civic-app{
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.app-header{
+	height: 123px;
+}
+.cp-logo{
+	height: 123px;
+}
+.cp-logo img{
+	padding: 25px;
+	height:100%;
+}
+.cp-welcome{
+	height:123px;
+}
+.cp-welcome .cp-login {
+    height: 123px;
+}
+.fsbtn-blue {
+    background-color: #455eee;
+    border: 0;
+    color: #fff;
+	width: 150px;
+}
+.btn-orange {
+    background-color: #455eee;
+    border: 0;
+    color: #fff;
+	width: 150px;
+	float:left;
+}
+.fsbtn{
+	height: 50px;
+    margin: 0;
+    border-radius: 10px;
+    box-shadow: none;
+    line-height: 50px;
+	text-align:center;
+	float:right;
+	margin-top: 37px;
+}
+.civic-app .cp-margin-right {
+    margin-right: 1em;
+}
+.log-in{
+	font-family: Montserrat;
+    font-weight: bold;
+    font-size: 12px;
+    padding-right: 10px;
+}
+.fsbtn-orange{
+	background-color: rgba(247,159,75,.89)!important;
+    color: #fff!important;
+	border-radius: 10px;
+	width:220px;
+	display: inline-block;
+    position: relative;
+	align-items: center;
+    text-align: center;
+    font-size: 14px;
+	height:50px;
+	line-height: 50px;
+}
+
+@font-face {
+  font-family: Proxima Nova;
+  src: url(C:/Users/Waleed.Iqbal/Desktop/HomePage2/plugins/fonts/proxima-nova-alt-regular-webfont.woff);
+}
+
+.home-bg{
+	font-size: 1.2em;
+	color:#ffffff;
+	background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(images//bg-landing.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+	min-height: 545px;
+}
+.footer{
+	background-color: #eff0f2;
+    border-top-color: #e7e7e7;
+    border-top-width: 1px;
+    padding-top: 10px;
+	
+}
+.footer span.warm-slate {
+    display: block;
+    line-height: 11px;
+    font-size: 9px;
+    color: #707271;
+}
+.footer .footer-disclaimer {
+    text-align: justify;
+}
+.footer .footer-logo {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.footer .footer-logo img {
+    max-width: 80px;
+    margin-top: 3px;
+    margin-left: 0;
+}
+.policy-link{
+	font-family: Proxima Nova;
+	font-weight: 400;
+	font-size: 14px;
+}
+.card{
+	padding: 30px 15px;
+}
+.card-title{
+	font-family: Proxima Nova;
+	font-size:15.4px;
+	font-weight: 700;
+}
+.card-text{
+	font-family: Proxima Nova;
+	font-size:14px;
+
+}
+.fa{
+	font-size:2.5em;
+}
